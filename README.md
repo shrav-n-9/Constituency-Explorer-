@@ -65,13 +65,3 @@ Pandas: For data manipulation and analysis.
 Matplotlib / Plotly: For data visualization.
 
 Geopandas: For geographic data handling (if applicable).
-
-# License
-
-This project is licensed under the MIT License - see the LICENSE
- file for details.
-
-# Contact
-
-For any inquiries or contributions, please reach out via GitHub Issues
-.
